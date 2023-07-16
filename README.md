@@ -47,3 +47,5 @@ Contributions are welcome! If you find any issues or want to enhance the applica
 
 ## License
 This project is licensed under the MIT License.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
